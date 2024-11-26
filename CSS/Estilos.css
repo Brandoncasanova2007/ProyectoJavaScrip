@@ -1,0 +1,8 @@
+.borde-negro{
+    border: 1px solid black;
+    width: 50%;
+    margin: 15px;
+   
+    color: aqua;
+    background-color: rgb(255, 115, 0);
+}
